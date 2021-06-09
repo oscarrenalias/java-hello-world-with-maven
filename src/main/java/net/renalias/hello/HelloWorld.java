@@ -1,4 +1,4 @@
-package hello;
+package net.renalias.hello;
 
 import org.joda.time.LocalTime;
 
